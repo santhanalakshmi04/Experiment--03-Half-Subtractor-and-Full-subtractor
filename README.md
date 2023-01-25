@@ -55,6 +55,7 @@ TRUTH TABLE:
 ![212880018-74d4e40d-7e63-427f-8500-60cd290cf934](https://user-images.githubusercontent.com/119475762/214551056-6a344af8-5978-4b7e-9e79-6d680cd1ceca.png)
  
  FULL SUBTRACTOR
+ 
 LOGIC DIAGRAM:
 ![212880379-64e48ea8-0b02-4bdd-ac5f-e0c505871e58](https://user-images.githubusercontent.com/119475762/214551325-328c8e9d-b1e8-474d-ba17-c106c82e5ca1.png)
 
