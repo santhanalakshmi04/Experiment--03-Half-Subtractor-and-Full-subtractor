@@ -41,6 +41,7 @@ RegisterNumber:
 
 ## Output:
 HALF SUBTRACTOR:
+
 LOGIC DIAGRAM
 ![212878777-38549802-1273-44e8-9f04-f923188fea27](https://user-images.githubusercontent.com/119475762/214550637-52d204bc-3f31-4b5c-b2f7-1320d2e71f3a.png)
 
